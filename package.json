@@ -1,0 +1,20 @@
+{
+  "name": "first-challenge",
+  "version": "1.0.0",
+  "description": "hello world!!!",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"no test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza11101/Nodejs-challenge.git"
+  },
+  "author": "Hamza Boubaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamza11101/Nodejs-challenge/issues"
+  },
+  "homepage": "https://github.com/Hamza11101/Nodejs-challenge#readme"
+}
